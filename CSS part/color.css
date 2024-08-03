@@ -1,0 +1,77 @@
+body{
+    background-color:aliceblue
+    ;
+}
+#h1{
+    color: black;font-family:cursive;text-align:left;text-decoration:none;font-size:90px;
+
+}
+   #home{
+       color: black;text-decoration: none;
+       
+   } 
+#sweet{
+    height: 80px;
+    
+}
+.button{
+    background-color: white;color: black;text-align: right;
+}
+.go{
+    text-align: center; background-color:violet;
+}
+.went{
+    font-size: 15px ;width: 555px;height: 25px;
+}
+.button2{
+    background-color: purple;color: white;border-radius: 18px;font-size: 18px;width: 127px;
+}
+.button3{
+    background-color: gray;color: white;border-radius: 18px;font-size: 20px;width:33px;
+    
+}
+#div{
+    width: 350px;border-radius: 18px;font-size: 18px;
+}
+
+.row{
+    column-gap: 40px;
+}
+.column1{
+    float: left;
+    background-color:pink;
+    width: 600px;
+    padding: 10px;
+    border: 5px ;
+    margin: 0;  
+text-align: center;
+background-image: url(/website.pro/imgb/minimalist/d1.jpg);
+height:210px;
+}
+.column2{
+    float: right;
+    width: 600px;
+    padding: 10px;
+    border: 5px ;
+    margin: 0;
+    height: 176px;
+text-align: center;
+background-image: url(/website.pro/imgb/minimalist/d1.jpg);
+height: auto;
+background-color:pink;}
+.fb{
+    height: 40px;
+    
+}
+.x{
+    height: 40px;
+}
+.instra{
+    height: 40px;
+}
+.you{
+    height: 40px;
+}
+.pin{
+    height: 40px;
+}
